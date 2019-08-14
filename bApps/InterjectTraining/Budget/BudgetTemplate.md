@@ -11,7 +11,7 @@ description:
 
 ## Filters
 ### Template Setup
-The **Build Based On** and **Account Level** filters are used to set up the template. They determine where intial data is pulled from and at what level the district will be budgeted. Once data is pulled, filters will be hidden from the report. 
+The **Build Based On** and **Account Level** filters are used to set up the template. They determine where initial data is pulled from and at what level the district will be budgeted. Once data is pulled, filters will be hidden from the report. 
 
 ![](/images/WCNTraining/Budget/FilterOptions1.png)
 
@@ -28,7 +28,7 @@ The **Build Based On** and **Account Level** filters are used to set up the temp
  
 #### Account Level 
 
-*Required*. Used in pulling data ti determine the default account level at which the detail is summarized. The drop-down filter includes the choice of *Summary (xxxxx)* or *Full GL Account (xxxxx-xxx-xx)*. 
+*Required*. Used in pulling data to determine the default account level at which the detail is summarized. The drop-down filter includes the choice of *Summary (xxxxx)* or *Full GL Account (xxxxx-xxx-xx)*. 
 
 ![](/images/WCNTraining/Budget/FilterOptions_AccountLevel.png)
 
